@@ -1,20 +1,20 @@
-# Stone-Paper-Scissors-Game
-<p>Stone Paper Scissors Game is a simple and interactive web-based implementation of the classic hand game. This project utilizes HTML, CSS, and JavaScript to create a user-friendly gaming experience. The game allows players to make their choice between stone, paper, and scissors, and then pits their selection against a randomly generated computer choice.</p>
+# Rock-Paper-Scissor-Game
+<p>Rock-Paper-Scissor Game is a simple and interactive web-based implementation of the classic hand game. This project utilizes HTML, CSS, and JavaScript to create a user-friendly gaming experience. The game allows players to make their choice between rock, paper, and scissors, and then pits their selection against a randomly generated computer choice.</p>
 <img src="#">
 
 <h2>Features</h2>
 <ol type="I">
   <li><strong>User Friendly Interface:</strong> The game boasts an intuitive and visually appealing interface designed using HTML and CSS, providing a seamless and enjoyable experience for players.</li>
-  <li><strong>Interactive Gameplay:</strong> Players can click on their preferred choice (stone, paper, or scissors) through the responsive images. The game logic implemented in JavaScript.</li>
+  <li><strong>Interactive Gameplay:</strong> Players can click on their preferred choice (rock, paper, or scissors) through the responsive images. The game logic implemented in JavaScript.</li>
   <li><strong>Randomized Computer Choice:</strong> The computer opponent's choice is generated randomly, adding an element of unpredictability to each round.</li>
   <li><strong>Dynamic Scoreboard:</strong> The game includes a dynamic scoreboard that keeps track of the player's and computer's scores, updating in real-time after each round.</li>
-  <li><strong>Winning and Losing Scenarios:</strong> The game logic determines the winner of each round based on the classic rules of Stone Paper Scissors. A winning or losing message is displayed, contributing to an engaging player experience.</li>
+  <li><strong>Winning and Losing Scenarios:</strong> The game logic determines the winner of each round based on the classic rules of Rock Paper Scissors. A winning or losing message is displayed, contributing to an engaging player experience.</li>
 </ol>
 
 <h2>How To Play?</h2>
 <ol>
   <li>Open the HTML File in a web browser.</li>
-  <li>Click on your preferred choice (stone / paper / scissors) to make your move.</li>
+  <li>Click on your preferred choice (rock / paper / scissors) to make your move.</li>
   <li>The computer will randomly generate its choice.</li>
   <li>The winner of the round will be determined based on the classic rules of Stone Paper Scissors.</li>
   <li>The scoreboard will update to reflect the outcome, and the game is ready for the next round.</li>  
