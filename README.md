@@ -3,13 +3,13 @@
 <img src="#">
 
 <h2>Features</h2>
-<ul>
+<ol>
   <li><strong>User Friendly Interface:</strong> The game boasts an intuitive and visually appealing interface designed using HTML and CSS, providing a seamless and enjoyable experience for players.</li>
   <li><strong>Interactive Gameplay:</strong> Players can click on their preferred choice (stone, paper, or scissors) through the responsive images. The game logic implemented in JavaScript.</li>
   <li><strong>Randomized Computer Choice:</strong> The computer opponent's choice is generated randomly, adding an element of unpredictability to each round.</li>
   <li><strong>Dynamic Scoreboard:</strong> The game includes a dynamic scoreboard that keeps track of the player's and computer's scores, updating in real-time after each round.</li>
   <li><strong>Winning and Losing Scenarios:</strong> The game logic determines the winner of each round based on the classic rules of Stone Paper Scissors. A winning or losing message is displayed, contributing to an engaging player experience.</li>
-</ul>
+</ol>
 
 <h2>Technologies Used:</h2>
 <ul>
