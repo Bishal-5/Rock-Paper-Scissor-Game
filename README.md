@@ -14,12 +14,14 @@
 <h2>How To Play?</h2>
 <img src="https://github.com/Bishal-5/Rock-Paper-Scissor-Game/blob/main/Rock-Paper-Scissor/Screenshot/2.png">
 <ol>
-  <li>Open the HTML File in a web browser.</li>
   <li>Click on your preferred choice (rock / paper / scissors) to make your move.</li>
   <li>The computer will randomly generate its choice.</li>
   <li>The winner of the round will be determined based on the classic rules of Stone Paper Scissors.</li>
   <li>The scoreboard will update to reflect the outcome, and the game is ready for the next round.</li>  
 </ol>
+
+<h2>Play This Game:</h2>
+<li><strong>Click This Link to Play Game</strong> https://bishal-rock-paper-scissor-game.netlify.app/</li>
 
 <h2>Technologies Used:</h2>
 <ul>
