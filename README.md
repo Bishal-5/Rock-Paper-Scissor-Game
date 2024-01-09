@@ -17,8 +17,7 @@
   <li>Click on your preferred choice (stone / paper / scissors) to make your move.</li>
   <li>The computer will randomly generate its choice.</li>
   <li>The winner of the round will be determined based on the classic rules of Stone Paper Scissors.</li>
-  <li>The scoreboard will update to reflect the outcome, and the game is ready for the next round.</li>
-  
+  <li>The scoreboard will update to reflect the outcome, and the game is ready for the next round.</li>  
 </ol>
 
 <h2>Technologies Used:</h2>
@@ -28,11 +27,8 @@
   <li>JavaScript</li>
 </ul>
 
-<p>This project brings the timeless decision-making challenge to browser using HTML, CSS, and JavaScript. Whether looking for a fun way to pass the time or want to enhance web development skills, this project is a great opportunity to explore the fundamentals of front-end development.</p>
-
 <h2>Contributions:</h2>
-<p>Contributions are welcome! If you find a bug or have suggestions for improvement, feel free to open an issue or submit a pull request.</p>
-
+<p>Contributors are welcome to suggest improvements, report bugs, or propose additional features. Feel free to fork the repository, make changes, and submit a pull request.</p>
 
 <h2>Made by</h2>
 <li><a href="https://github.com/Bishal-5">Bishal Naskar</a></li>
