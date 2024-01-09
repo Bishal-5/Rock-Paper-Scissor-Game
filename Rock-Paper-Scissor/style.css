@@ -1,3 +1,4 @@
+/* Full body edit */
 *{
     margin: 0;
     padding: 0;
@@ -8,7 +9,7 @@ h1{
     color: red;
     margin-top: 2px;
     background-color: aqua;
-    line-height: 4rem;
+    line-height: 4rem; /* Give line height for adjust line in display */
 }
 span{
     color: indigo;
@@ -18,12 +19,12 @@ span{
     height: 150px;
     width: 170px;
     border-radius: 44%;
-    justify-content: center;
-    align-items: center;
-}
+    justify-content: center; /* Horizontally Align */
+    align-items: center; /* Vertically Align */
+} 
 .select{
     display: flex;
-    gap: 5rem;
+    gap: 5rem; /* Gap between */
     justify-content: center; /* Horizontally Align */
     align-items: center; /* Vertically Align */
     margin-top: 8rem;
@@ -31,7 +32,7 @@ span{
 img{
     height: 148px;
     width: 157px;
-    object-fit: cover;
+    object-fit: cover; /* Fit the image as original */
     border-radius: 44%;
     cursor: pointer;
     
