@@ -11,6 +11,16 @@
   <li><strong>Winning and Losing Scenarios:</strong> The game logic determines the winner of each round based on the classic rules of Stone Paper Scissors. A winning or losing message is displayed, contributing to an engaging player experience.</li>
 </ol>
 
+<h2>How To Play?</h2>
+<ol>
+  <li>Open the HTML File in a web browser.</li>
+  <li>Click on your preferred choice (stone / paper / scissors) to make your move.</li>
+  <li>The computer will randomly generate its choice.</li>
+  <li>The winner of the round will be determined based on the classic rules of Stone Paper Scissors.</li>
+  <li>The scoreboard will update to reflect the outcome, and the game is ready for the next round.</li>
+  
+</ol>
+
 <h2>Technologies Used:</h2>
 <ul>
   <li>HTML</li>
