@@ -75,3 +75,26 @@ img:hover{
     height: 35px;
     font-size: 34px;
 }
+
+@media screen and (max-width: 634px)
+{
+    .select{
+    display: inline-block;
+    align-items: center; /* Vertically Align */
+    margin-top: 2rem;
+    margin-bottom: 1px;
+    }
+    .choice{
+    margin-bottom: 2rem;
+    } 
+    .message{
+    margin-top: 5px;
+    }
+    .scoreBoard{
+    display: flex;
+    gap: 4rem;
+    justify-content: center;
+    align-items: end;
+    margin-top: 2rem;
+    }
+}
