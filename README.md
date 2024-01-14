@@ -2,7 +2,7 @@
 <p>Rock-Paper-Scissor Game is a simple and interactive web-based implementation of the classic hand game. This project utilizes HTML, CSS, and JavaScript to create a user-friendly gaming experience. The game allows players to make their choice between rock, paper, and scissors, and then pits their selection against a randomly generated computer choice.</p>
 
 <h3>Play This Game:</h3>
-<a href="https://bishal-rock-paper-scissor-game.netlify.app">Click Here</a> <strong>To Play This Game</strong>
+<a href="https://bishal-rock-paper-scissor-game.netlify.app">Click Here</a> <strong>To Play This Game.</strong>
 
 <h2><img src="https://github.com/Bishal-5/Rock-Paper-Scissor-Game/blob/main/Rock-Paper-Scissor/Screenshot/1.png"></h2>
 
