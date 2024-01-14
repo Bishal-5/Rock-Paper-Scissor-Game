@@ -3,6 +3,7 @@
 
 <h3>Play This Game:</h3>
 <a href="https://bishal-rock-paper-scissor-game.netlify.app" target="_blank">Click Here</a> <strong>To Play This Game.</strong>
+<a href="https://www.w3schools.com" target="_blank">Visit W3Schools.com!</a> 
 
 <h2><img src="https://github.com/Bishal-5/Rock-Paper-Scissor-Game/blob/main/Rock-Paper-Scissor/Screenshot/1.png"></h2>
 
