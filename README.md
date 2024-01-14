@@ -13,6 +13,7 @@
   <li><strong>Randomized Computer Choice:</strong> The computer opponent's choice is generated randomly, adding an element of unpredictability to each round.</li>
   <li><strong>Dynamic Scoreboard:</strong> The game includes a dynamic scoreboard that keeps track of the player's and computer's scores, updating in real-time after each round.</li>
   <li><strong>Winning and Losing Scenarios:</strong> The game logic determines the winner of each round based on the classic rules of Rock Paper Scissors. A winning or losing message is displayed, contributing to an engaging player experience.</li>
+  <li><strong>Responsive Design:</strong> The application is built with responsiveness in mind, ensuring a seamless experience across various devices and screen sizes.</li>
 </ol>
 
 <h2>How To Play?</h2>
@@ -23,10 +24,6 @@
   <li>The scoreboard will update to reflect the outcome, and the game is ready for the next round.</li>  
 </ol>
 <img src="https://github.com/Bishal-5/Rock-Paper-Scissor-Game/blob/main/Rock-Paper-Scissor/Screenshot/2.png">
-
-<h2>Responsive WebPage</h2>
-<p>This is a responsive webpage for all devices.</p>
-<img src="https://github.com/Bishal-5/Rock-Paper-Scissor-Game/blob/main/Rock-Paper-Scissor/Screenshot/5.jpeg">
 
 <h2>Technologies Used</h2>
 <ul>
