@@ -4,7 +4,7 @@
 <h2>Demo</h2>
 <a href="https://bishal-rock-paper-scissor-game.netlify.app">Click Here</a> <strong>To See The Aapplication In Action.</strong>
 
-<h2><img src="https://github.com/Bishal-5/Rock-Paper-Scissor-Game/blob/main/Rock-Paper-Scissor/Screenshot/1.png"></h2>
+<img src="https://github.com/Bishal-5/Rock-Paper-Scissor-Game/blob/main/Rock-Paper-Scissor/Screenshot/2.png">
 
 <h2>Features</h2>
 <ol type="I">
@@ -23,7 +23,6 @@
   <li>The winner of the round will be determined based on the classic rules of Stone Paper Scissors.</li>
   <li>The scoreboard will update to reflect the outcome, and the game is ready for the next round.</li>  
 </ol>
-<img src="https://github.com/Bishal-5/Rock-Paper-Scissor-Game/blob/main/Rock-Paper-Scissor/Screenshot/2.png">
 
 <h2>Technologies Used</h2>
 <ul>
@@ -36,5 +35,5 @@
 <p>Contributors are welcome to suggest improvements, report bugs, or propose additional features. Feel free to fork the repository, make changes, and submit a pull request.</p>
 
 <h2>Made by</h2>
-<li><a href="https://github.com/Bishal-5">Bishal Naskar</a></li>
-<li><a href="https://www.linkedin.com/in/bishal-naskar-2a5716250/">LinkedIN</a></li>
+<li><strong>GitHub </strong><a href="https://github.com/Bishal-5">Bishal Naskar</a></li>
+<li><strong>LinkedIN </strong><a href="https://www.linkedin.com/in/bishal-naskar-2a5716250/">Bishal Naskar</a></li>
