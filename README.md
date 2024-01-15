@@ -4,7 +4,7 @@
 <h2>Demo</h2>
 <a href="https://bishal-rock-paper-scissor-game.netlify.app">Click Here</a> <strong>To See The Aapplication In Action.</strong>
 
-<img src="https://github.com/Bishal-5/Rock-Paper-Scissor-Game/blob/main/Rock-Paper-Scissor/Screenshot/2.png">
+<h2><img src="https://github.com/Bishal-5/Rock-Paper-Scissor-Game/blob/main/Rock-Paper-Scissor/Screenshot/2.png"></h2>
 
 <h2>Features</h2>
 <ol type="I">
